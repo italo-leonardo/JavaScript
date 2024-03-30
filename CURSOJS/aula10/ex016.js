@@ -25,6 +25,6 @@ switch(diaSem) {
     case 6:
         console.log('Sababo')
         break
-    default
+    default:
         console.log('Dia Invalido')
 }
